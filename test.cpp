@@ -4,6 +4,10 @@ using namespace std;
 
 int main()
 {
-    cout << "SZY go out by YE" << endl;
+    for(int i = 0; i < 5; i++)
+    {
+        cout << "SZY go out by YE" << endl;
+    }
+
     return 0;
 }
